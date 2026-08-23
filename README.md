@@ -160,7 +160,7 @@ Gosto muito de abordagens bem-humoradas sobre Economia, uma área que às vezes 
 </details>
 
 <details>
-<summary><strong>Keynes Hayek: The Clash That Defined Modern Economics — Nicholas Wapshott · ⭐⭐⭐⭐½ · 4.5/5</strong></summary>
+<summary><strong>Keynes x Hayek: The Clash That Defined Modern Economics — Nicholas Wapshott · ⭐⭐⭐⭐½ · 4.5/5</strong></summary>
 <br>
 <table>
 <tr>
