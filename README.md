@@ -39,7 +39,7 @@ An analysis of how economic uncertainty shocks affect employment, investment and
 | Project | Scope | Analytical Methods | Technologies | Status |
 | :--- | :--- | :--- | :--- | :--- |
 | [**Monetary Policy Under Uncertainty**](https://github.com/karinabelarmino/monetary-policy-under-uncertainty) | Effects of uncertainty and credibility shocks on economic activity and inflation expectations in Brazil | Bayesian VAR; sign and zero restrictions; time-series analysis | R | Released |
-| [**Customer Experience Analytics and Pipeline**](https://github.com/karinabelarmino/customer-experience-analytics-pipeline) | Synthetic customer-experience pipeline, from API ingestion and validation to management-ready indicators | Data-quality validation; deduplication; incremental loading; NPS and CSAT; claims-ratio and outlier analysis | APIs; SQL; Python; Databricks | **Released Aug 27, 2026** · Exercise 01 available · Synthetic data |
+| [**Customer Experience Analytics and Pipeline**](https://github.com/karinabelarmino/customer-experience-analytics-pipeline) | Synthetic customer-experience pipeline, from API ingestion and validation to management-ready indicators | Data-quality validation; deduplication; incremental loading; NPS and CSAT; claims-ratio and outlier analysis | APIs; SQL; Python; Databricks | Exercise 01 available · Synthetic data |
 
 ## 🛠️ Tools & Technologies
 
